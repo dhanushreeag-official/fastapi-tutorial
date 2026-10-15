@@ -20,8 +20,8 @@ A beginner-friendly REST API built with Python and FastAPI to practice backend d
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd fastapi-employee-api
+git clone https://github.com/dhanushreeag-official/fastapi-tutorial.git
+cd fastapi-tutorial
 ```
 
 ### 2. Create and activate a virtual environment
@@ -33,7 +33,7 @@ python -m venv .venv
 Windows:
 
 ```bash
-.venv\Scripts\activate
+.venv\Scripts\Activate.ps1
 ```
 
 ### 3. Install dependencies
